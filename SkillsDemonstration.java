@@ -1,1 +1,7 @@
-//Open on VSCode
+public class SkillsDemonstration{
+    public static int add(int a, int b){
+        a = a + 1;
+        b = b + 1;
+        return a + b;
+    }
+}
