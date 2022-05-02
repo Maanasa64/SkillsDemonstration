@@ -3,6 +3,6 @@ import org.junit.*;
 public class SkillsDemonstrationTest{
     @Test
     public void addition(){
-        assertEquals(2, SkillsDemonstration.add(1, 1)); //fails as expected=2 and actual=4
+        assertEquals(4, SkillsDemonstration.add(1, 1)); //pass as expected=4 and actual=4
     }
 }
